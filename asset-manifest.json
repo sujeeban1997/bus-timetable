@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bus-timetable/static/css/main.d91ad23c.css",
+    "main.js": "/bus-timetable/static/js/main.302b4c2f.js",
+    "static/js/592.c2c9c6f5.chunk.js": "/bus-timetable/static/js/592.c2c9c6f5.chunk.js",
+    "static/media/Hero2.jpg": "/bus-timetable/static/media/Hero2.f3872f630431d91da6f7.jpg",
+    "static/media/nav-logo.png": "/bus-timetable/static/media/nav-logo.8bd12f8b1251c55c62d1.png",
+    "index.html": "/bus-timetable/index.html",
+    "main.d91ad23c.css.map": "/bus-timetable/static/css/main.d91ad23c.css.map",
+    "main.302b4c2f.js.map": "/bus-timetable/static/js/main.302b4c2f.js.map",
+    "592.c2c9c6f5.chunk.js.map": "/bus-timetable/static/js/592.c2c9c6f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d91ad23c.css",
+    "static/js/main.302b4c2f.js"
+  ]
+}
