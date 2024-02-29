@@ -184,6 +184,13 @@
   display: none;
 }
 
+.searbar-for-results {
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  padding: 2rem 1.5rem 1rem;
+  border-radius: 11px;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
 
 /*-----------------------------------------------------------------------------------------------------------------------------------------------
  Media query  section style  

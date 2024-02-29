@@ -3,6 +3,7 @@ import React, { useState } from 'react';
 import { Space, Tag, Button, Drawer } from 'antd';
 import Filter from './Filter';
 import { FilterOutlined } from '@ant-design/icons';
+import Searchbar from './Searchbar';
 
 
 const SearchResult = () => {
@@ -20,6 +21,9 @@ const SearchResult = () => {
           return (
                     <>
                               <div className='container bus-card-section mt-4'>
+                                        <div className='searbar-for-results'>
+                                                  <Searchbar />
+                                        </div>
                                         <div className='d-flex justify-content-between'>
                                                   <h4 className=''>Search Results Bus Time</h4>
                                                   <Button className="only-for-mobile" onClick={showDrawer}>
