@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import { DatePicker } from 'antd';
 import { Select, TimePicker, Button } from 'antd';
 import type { SelectProps } from 'antd';
+import { NavLink } from 'react-router-dom';
 
 const Searchbar = () => {
 
@@ -100,9 +101,11 @@ const Searchbar = () => {
                                                   </div>
 
                                                   <div className='form-text-field'>
-                                                            <Button className='search-button'>
+                                                        <NavLink  to="/results">
+                                                            <Button className='search-button' >
                                                             Search buses
                                                             </Button>
+                                                            </NavLink>
                                                   </div>
                                         </div>
   )
